@@ -51,18 +51,22 @@ flutter run
 ### Screenshots
 
 You can find screenshots of the application in the `screenshots` folder of the repository.
-## Screenshots
 
-Here are some screenshots of the FinVest App:
+1. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.20.png" width="258" height="559" alt="Screenshot 1">
 
-1. ![Screenshot 1](screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.20.png)
-2. ![Screenshot 2](screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.27.png)
-3. ![Screenshot 3](screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.43.png)
-4. ![Screenshot 4](screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.56.png)
-5. ![Screenshot 5](screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.05.png)
-6. ![Screenshot 6](screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.10.png)
-7. ![Screenshot 7](screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.14.png)
-8. ![Screenshot 8](screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.24.png)
+2. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.27.png" width="258" height="559" alt="Screenshot 2">
+
+3. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.43.png" width="258" height="559" alt="Screenshot 3">
+
+4. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.56.png" width="258" height="559" alt="Screenshot 4">
+
+5. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.05.png" width="258" height="559" alt="Screenshot 5">
+
+6. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.10.png" width="258" height="559" alt="Screenshot 6">
+
+7. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.14.png" width="258" height="559" alt="Screenshot 7">
+
+8. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.24.png" width="258" height="559" alt="Screenshot 8">
 
 ### Dependencies
 
