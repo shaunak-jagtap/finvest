@@ -52,22 +52,20 @@ flutter run
 
 You can find screenshots of the application in the `screenshots` folder of the repository.
 
-1. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.20.png" width="258" height="559" alt="Screenshot 1">
-
-2. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.27.png" width="258" height="559" alt="Screenshot 2">
-
-3. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.43.png" width="258" height="559" alt="Screenshot 3">
-
-4. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.56.png" width="258" height="559" alt="Screenshot 4">
-
-5. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.05.png" width="258" height="559" alt="Screenshot 5">
-
-6. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.10.png" width="258" height="559" alt="Screenshot 6">
-
-7. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.14.png" width="258" height="559" alt="Screenshot 7">
-
-8. <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.24.png" width="258" height="559" alt="Screenshot 8">
-
+<table>
+  <tr>
+    <td><img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.20.png" width="258" alt="Screenshot 1"></td>
+    <td><img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.27.png" width="258" alt="Screenshot 2"></td>
+    <td><img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.43.png" width="258" alt="Screenshot 3"></td>
+    <td><img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.33.56.png" width="258" alt="Screenshot 4"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.05.png" width="258" alt="Screenshot 5"></td>
+    <td><img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.10.png" width="258" alt="Screenshot 6"></td>
+    <td><img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.14.png" width="258" alt="Screenshot 7"></td>
+    <td><img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-17%20at%2021.34.24.png" width="258" alt="Screenshot 8"></td>
+  </tr>
+</table>
 ### Dependencies
 
 Ensure that the following dependencies are included in your `pubspec.yaml` file:
